@@ -1,5 +1,5 @@
 # Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation
-![overview]()
+![overview](overview.png)
 
 Code for the ACL 2025 main conference paper "Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation". This repo is based on [trl](https://github.com/huggingface/trl).
 
